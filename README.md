@@ -1,2 +1,6 @@
 # walkthru2
-sample repository
+
+## Introduction
+
+sample repository for live coding with fastai
+
